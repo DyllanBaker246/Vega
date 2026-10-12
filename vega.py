@@ -1,4 +1,5 @@
 from languageIdentifier import languageIdentifier
+from spamDetection import spamDetection
 def main():
     userInput = ""
 
@@ -15,14 +16,33 @@ def main():
         # for word in words:
         #     print(word)
 
-        word = words[0]
-        if word == "quit":
+        if words[0] == "quit":
             break
-        if word == "langId":
+        if words[0] == "-help":
+            print("\nlangId [-str] [target string]")
+            print("     -> finds probability of language of string\n")
+            print("genLang [-l] [-s] [starting string]")
+            print("     -> generates string of -l length")
+            print("     -> -s is optional")
+
+
+            continue
+        if words[0] == "langId":
             if words[1] == "-s":
                 userInput = " ".join(userInput.split()[2:])
                 languageIdentifier(userInput)
                 continue
+        if words[0] == "genLang":
+            if words[1] == "-l":
+                length = words[2]
+                if words[3] == "-s":
+                    return
+        if words[0] == "isSpam":
+            userInput = " ".join(userInput.split()[1:])
+            spamDetection(userInput)
+            continue
+
+
             
 
         print("Unknown Command:", userInput)

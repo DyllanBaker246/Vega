@@ -1,0 +1,1506 @@
+ngram,count
+The,9
+he ,25
+e m,3
+ mo,5
+mor,3
+orn,2
+rni,5
+nin,8
+ing,21
+ng ,19
+g b,2
+ be,14
+beg,4
+ega,1
+gan,2
+an ,17
+n q,2
+ qu,2
+qui,3
+uie,1
+iet,1
+etl,1
+tly,5
+ly ,11
+y a,9
+ as,4
+as ,5
+s s,4
+ su,3
+sun,1
+unl,1
+nli,1
+lig,1
+igh,7
+ght,7
+ht ,5
+t p,3
+ pa,15
+pas,3
+ass,5
+sse,5
+sed,3
+ed ,18
+d t,8
+ th,52
+thr,2
+hro,2
+rou,3
+oug,4
+ugh,4
+gh ,3
+h t,3
+the,47
+e w,8
+ wi,7
+win,1
+ind,2
+ndo,1
+dow,2
+ows,1
+ws ,1
+s a,22
+ an,37
+and,32
+nd ,31
+d f,1
+ fi,5
+fil,3
+ill,6
+lle,4
+led,3
+e r,3
+ ro,1
+roo,1
+oom,1
+om.,1
+m. ,1
+. O,2
+ Ou,1
+Out,1
+uts,1
+tsi,1
+sid,2
+ide,9
+"de,",1
+"e, ",11
+", p",2
+ pe,6
+peo,3
+eop,4
+opl,4
+ple,9
+le ,12
+ wa,9
+wal,2
+alk,3
+lke,1
+ked,1
+d a,3
+ al,4
+alo,1
+lon,1
+ong,1
+g t,6
+e s,10
+ st,8
+str,3
+tre,1
+ree,1
+eet,1
+et ,3
+t w,3
+ wh,10
+whi,4
+hil,4
+ile,6
+e c,5
+ ca,14
+car,2
+ars,1
+rs ,17
+s m,4
+mov,2
+ove,2
+ved,1
+d s,8
+ sl,2
+slo,1
+low,3
+owl,1
+wly,1
+y t,1
+e n,4
+ ne,10
+nei,1
+eig,1
+ghb,1
+hbo,1
+bor,2
+orh,1
+rho,1
+hoo,2
+ood,2
+od.,1
+d. ,4
+. A,7
+ A ,4
+A s,1
+ sm,1
+sma,1
+mal,1
+all,9
+ll ,6
+l d,3
+ do,5
+dog,1
+og ,1
+g w,1
+wai,1
+ait,1
+ite,5
+ted,9
+d n,2
+nea,1
+ear,12
+ar ,7
+r t,5
+e f,3
+ fr,9
+fro,3
+ron,1
+ont,4
+nt ,8
+t d,2
+doo,1
+oor,1
+"or,",1
+"r, ",6
+", w",5
+wat,2
+atc,2
+tch,3
+chi,2
+hin,5
+g e,3
+ ev,5
+eve,8
+ver,8
+ery,5
+ryo,1
+yon,1
+one,4
+ne ,6
+who,2
+ho ,2
+o p,3
+d b,3
+ by,2
+by.,1
+y. ,5
+. T,9
+ Th,8
+ we,4
+wea,3
+eat,6
+ath,2
+her,12
+er ,23
+r w,3
+was,2
+s c,12
+ co,32
+coo,1
+ool,5
+"ol,",1
+"l, ",1
+", b",5
+ bu,7
+but,5
+ut ,7
+t t,11
+ sk,2
+sky,1
+ky ,1
+y w,2
+ cl,2
+cle,2
+lea,7
+r a,4
+ br,2
+bri,1
+rig,1
+ht.,1
+"t.
+",2
+".
+
+",11
+"
+
+L",2
+"
+Le",1
+Lea,1
+arn,6
+g a,2
+ a ,19
+a n,2
+new,2
+ew ,3
+w s,1
+ski,1
+kil,1
+l r,1
+ re,11
+req,7
+equ,8
+uir,1
+ire,1
+res,3
+es ,18
+s p,4
+pat,9
+ati,17
+tie,2
+ien,2
+enc,4
+nce,4
+"ce,",2
+ pr,24
+pra,2
+rac,3
+act,4
+cti,6
+tic,5
+ice,3
+", a",13
+d c,5
+ cu,2
+cur,5
+uri,3
+rio,1
+ios,1
+osi,1
+sit,5
+ity,3
+ty.,1
+. P,2
+ Pe,2
+Peo,1
+e o,7
+ of,14
+oft,5
+fte,4
+ten,4
+en ,8
+n m,4
+ ma,10
+mak,3
+ake,5
+ke ,3
+ mi,9
+mis,2
+ist,4
+sta,8
+tak,2
+kes,2
+s w,5
+whe,2
+hen,4
+n t,7
+hey,9
+ey ,9
+y f,5
+fir,1
+irs,1
+rst,6
+st ,4
+t b,5
+egi,3
+gin,5
+"in,",1
+"n, ",3
+tho,5
+hos,3
+ose,3
+se ,13
+can,10
+n p,4
+pro,18
+rov,3
+ovi,3
+vid,2
+de ,1
+e v,2
+ va,3
+val,3
+alu,3
+lua,3
+uab,3
+abl,5
+ble,10
+e i,8
+ in,17
+inf,5
+nfo,5
+for,13
+orm,6
+rma,5
+mat,6
+tio,20
+ion,23
+on.,4
+n. ,4
+A p,1
+rog,6
+ogr,6
+gra,9
+ram,7
+amm,2
+mme,2
+mer,4
+"er,",5
+", f",3
+ fo,7
+or ,12
+r e,4
+ ex,11
+exa,7
+xam,7
+amp,4
+mpl,6
+"le,",2
+", m",2
+may,5
+ay ,7
+y s,2
+ sp,3
+spe,3
+pen,3
+end,6
+d h,1
+ ho,7
+hou,4
+our,1
+urs,1
+s t,15
+ tr,2
+try,1
+ryi,1
+yin,1
+ to,23
+to ,21
+o u,3
+ un,10
+und,7
+nde,5
+der,8
+ers,23
+tan,8
+d w,3
+why,1
+hy ,1
+a p,4
+ pi,2
+pie,2
+iec,2
+ece,2
+ce ,3
+of ,12
+f s,1
+ so,8
+sof,2
+ftw,3
+twa,3
+war,4
+are,12
+re ,12
+e d,5
+doe,1
+oes,1
+s n,1
+ no,1
+not,7
+ot ,2
+ wo,10
+wor,15
+ork,9
+rk ,5
+k c,1
+cor,2
+orr,3
+rre,2
+rec,4
+ect,9
+ctl,1
+ly.,3
+. B,2
+ By,2
+By ,2
+y e,2
+ami,4
+min,3
+ini,2
+e p,12
+rob,4
+obl,4
+lem,4
+em ,5
+m c,3
+ref,1
+efu,2
+ful,2
+ull,1
+lly,6
+ te,7
+tes,2
+est,7
+sti,8
+tin,5
+g d,1
+ di,10
+dif,5
+iff,6
+ffe,4
+fer,4
+ere,5
+ren,4
+ent,18
+t s,6
+sol,3
+olu,1
+lut,1
+uti,1
+ons,11
+"ns,",4
+"s, ",15
+", t",7
+r g,1
+ gr,2
+rad,1
+adu,1
+dua,1
+ual,3
+y d,1
+ de,9
+dev,4
+vel,3
+elo,3
+lop,3
+ops,1
+ps ,2
+a b,2
+bet,1
+ett,4
+tte,13
+ter,28
+r u,1
+ndi,2
+din,5
+g o,2
+f t,2
+ sy,6
+sys,6
+yst,6
+ste,8
+tem,7
+em.,1
+"m.
+",1
+"
+
+C",2
+"
+Co",2
+Com,1
+omp,11
+mpu,8
+put,8
+ute,8
+s h,4
+ ha,4
+hav,3
+ave,2
+ve ,5
+e b,2
+bec,2
+eco,4
+com,20
+ome,8
+me ,2
+e a,6
+n i,7
+ im,5
+imp,4
+mpo,3
+por,3
+ort,3
+rta,4
+ant,4
+par,6
+art,2
+rt ,1
+t o,2
+f m,3
+mod,1
+ode,1
+ern,10
+rn ,5
+n l,3
+ li,2
+lif,1
+ife,1
+fe.,1
+e. ,6
+ ar,5
+e u,4
+ us,9
+use,10
+d i,4
+in ,7
+n s,2
+ sc,1
+sch,1
+cho,1
+ols,4
+"ls,",2
+bus,1
+usi,1
+sin,1
+ine,7
+nes,2
+ess,9
+ses,3
+"es,",5
+", h",2
+osp,1
+spi,1
+pit,1
+ita,2
+tal,2
+als,2
+", l",1
+ la,6
+lab,1
+abo,3
+ora,1
+rat,1
+ato,1
+tor,2
+ori,1
+rie,2
+ies,3
+hom,2
+mes,2
+d m,1
+man,2
+any,2
+ny ,2
+y o,1
+ ot,3
+oth,8
+r p,4
+ pl,1
+pla,2
+lac,1
+ace,1
+ces,8
+es.,4
+s. ,8
+A c,2
+r c,11
+roc,4
+oce,4
+ss ,5
+s l,3
+lar,3
+arg,2
+rge,2
+ge ,6
+ am,1
+amo,1
+mou,1
+oun,4
+unt,2
+nts,3
+ts ,9
+s o,9
+f i,2
+on ,11
+uic,1
+ick,1
+ckl,1
+kly,1
+"ly,",2
+"y, ",2
+t i,1
+ it,4
+it ,3
+til,2
+dep,1
+epe,2
+nds,6
+ds ,9
+ on,1
+ins,4
+nst,2
+tru,2
+ruc,2
+uct,2
+ns ,16
+ cr,3
+cre,3
+rea,8
+ate,14
+by ,1
+y p,3
+le.,3
+. S,4
+ So,3
+Sof,1
+ope,2
+per,6
+ wr,2
+wri,2
+rit,5
+te ,7
+ams,2
+ms ,3
+tha,7
+hat,7
+at ,9
+tel,1
+ell,1
+l c,1
+how,3
+ow ,6
+w t,3
+erf,1
+rfo,1
+rm ,2
+m s,1
+pec,3
+eci,3
+cif,2
+ifi,3
+fic,6
+ic ,3
+c t,1
+ ta,4
+tas,2
+ask,2
+sks,2
+"ks,",1
+e e,5
+ en,3
+eng,1
+ngi,2
+nee,3
+eer,2
+s d,2
+des,4
+esi,2
+sig,3
+ign,3
+gn ,1
+e h,2
+har,2
+ard,1
+rdw,1
+dwa,1
+net,4
+etw,4
+two,4
+rks,2
+ks ,3
+t a,5
+llo,2
+hes,4
+ese,4
+ems,6
+o c,3
+omm,6
+mmu,3
+mun,3
+uni,3
+nic,5
+ica,9
+cat,6
+te.,1
+"e.
+",1
+"
+
+T",2
+"
+Th",1
+int,4
+nte,5
+rne,1
+t c,3
+con,9
+onn,2
+nne,4
+nec,2
+cts,4
+mil,4
+lli,1
+lio,1
+f d,1
+evi,1
+vic,2
+aro,1
+orl,1
+rld,1
+ld.,1
+. W,3
+ Wh,2
+Whe,1
+som,2
+meo,2
+eon,2
+ vi,1
+vis,1
+isi,2
+its,3
+a w,1
+web,1
+ebs,1
+bsi,1
+"te,",1
+hei,4
+eir,4
+ir ,4
+r s,1
+ se,11
+sen,4
+a r,1
+que,6
+ues,3
+ ac,4
+acr,1
+cro,1
+ros,1
+oss,2
+k t,6
+o a,3
+ano,4
+cal,6
+a s,5
+ser,5
+erv,4
+rve,3
+er.,3
+r. ,3
+s i,3
+n b,2
+ ba,1
+bac,1
+ack,2
+ck ,3
+o t,2
+Thi,1
+his,2
+is ,6
+y h,1
+hap,2
+app,4
+ppe,4
+ le,9
+les,6
+han,3
+n a,8
+sec,2
+ond,1
+"nd,",1
+"d, ",2
+", e",2
+ven,3
+n w,3
+r i,3
+ is,4
+ lo,1
+loc,1
+oca,1
+ous,2
+usa,2
+san,2
+ aw,1
+awa,1
+way,3
+ay.,1
+"y.
+",1
+"
+
+N",1
+"
+Ne",1
+Net,1
+k s,1
+ecu,2
+ty ,2
+y i,2
+eca,1
+cau,1
+aus,1
+s f,3
+fre,4
+uen,4
+ntl,3
+exc,1
+xch,1
+cha,3
+ang,6
+nge,2
+pri,2
+riv,1
+iva,1
+vat,1
+ or,7
+r v,2
+ At,1
+Att,1
+tta,1
+tac,1
+cke,1
+ker,1
+ at,3
+att,9
+emp,1
+mpt,1
+pt ,2
+o s,4
+tea,2
+eal,1
+al ,5
+l p,2
+ssw,1
+swo,1
+ord,6
+rds,5
+"ds,",1
+acc,2
+cce,1
+onf,1
+nfi,1
+fid,1
+den,4
+nti,4
+tia,1
+ial,1
+l f,1
+", o",3
+r d,3
+dis,1
+isr,1
+sru,1
+rup,1
+upt,1
+rvi,1
+ Se,1
+Sec,1
+rof,1
+ofe,1
+fes,1
+ssi,3
+sio,2
+ona,1
+nal,3
+ls ,4
+o i,1
+ id,4
+tif,2
+ify,1
+fy ,1
+eak,1
+akn,1
+kne,1
+s b,2
+bef,2
+efo,2
+ore,3
+e t,10
+y c,6
+be ,4
+exp,4
+xpl,2
+plo,1
+loi,1
+oit,1
+ed.,1
+y u,2
+too,3
+o e,2
+tra,1
+raf,1
+aff,1
+ffi,3
+"ic,",1
+"c, ",1
+"ms,",2
+ana,2
+aly,2
+lyz,2
+yze,2
+ze ,4
+"re,",1
+inv,1
+nve,2
+ves,1
+tig,1
+iga,1
+gat,1
+unu,1
+nus,1
+usu,1
+sua,1
+l b,1
+beh,2
+eha,1
+avi,1
+vio,1
+ior,1
+or.,1
+"r.
+",1
+"
+
+M",1
+"
+Ma",1
+Mac,1
+ach,3
+e l,2
+g p,1
+olv,2
+lve,2
+ms.,3
+. I,2
+ In,2
+Ins,1
+ead,5
+ad ,2
+d o,2
+f w,2
+iti,3
+c r,1
+ ru,1
+rul,1
+ule,1
+ry ,5
+ po,1
+pos,1
+sib,1
+ibl,1
+ si,2
+itu,1
+tua,1
+uat,1
+"on,",2
+a d,1
+n c,3
+m t,2
+t l,2
+rns,8
+rom,2
+om ,2
+m d,1
+ da,2
+dat,1
+ata,1
+ta.,1
+a. ,1
+. F,2
+ Fo,2
+For,2
+am ,3
+cou,2
+oul,1
+uld,1
+ld ,1
+d e,3
+ me,1
+ssa,1
+sag,1
+age,6
+ges,4
+d l,2
+hic,1
+ich,1
+ch ,4
+h w,2
+mmo,3
+mon,3
+onl,2
+nly,2
+ ap,3
+pea,4
+n u,2
+unw,1
+nwa,1
+wan,1
+ em,2
+ema,2
+mai,2
+ail,1
+il.,1
+l. ,1
+ An,2
+Ano,1
+m m,1
+mig,4
+ima,2
+mag,1
+sso,1
+soc,1
+oci,1
+cia,1
+iat,1
+wit,6
+ith,6
+th ,6
+h d,3
+ ob,1
+obj,1
+bje,2
+jec,3
+ts.,3
+"s.
+",4
+"
+La",1
+Lan,1
+ngu,4
+gua,4
+uag,4
+f p,1
+n r,2
+cog,2
+ogn,2
+gni,2
+nit,1
+. D,1
+ Di,1
+Dif,1
+lan,3
+s u,2
+let,3
+omb,3
+mbi,3
+bin,3
+ina,4
+nat,4
+f l,1
+t f,1
+nci,2
+cie,1
+In ,1
+n E,2
+ En,3
+Eng,3
+ngl,2
+gli,2
+lis,3
+ish,4
+"sh,",1
+"h, ",1
+", c",2
+suc,1
+uch,1
+h a,4
+"he,",1
+", i",1
+"ng,",2
+"g, ",2
+ ti,1
+r f,2
+ Ot,1
+Oth,1
+r l,1
+r o,1
+ ow,1
+own,3
+wn ,3
+ ch,4
+ara,2
+cte,2
+eri,2
+ris,1
+c p,1
+ns.,1
+mpa,1
+hem,2
+m w,2
+h p,1
+fou,1
+unk,1
+nkn,1
+kno,1
+now,1
+tex,2
+ext,4
+xt.,1
+Con,1
+nsi,1
+rso,2
+son,3
+lki,1
+kin,1
+g i,1
+nto,2
+a g,1
+gro,1
+cer,1
+sto,2
+ af,1
+aft,1
+rk.,1
+k. ,1
+y m,3
+buy,1
+uy ,1
+y b,2
+bre,1
+"ad,",1
+", v",1
+ ve,2
+veg,1
+ege,1
+get,1
+eta,1
+tab,2
+ilk,1
+"lk,",1
+"k, ",3
+fru,1
+rui,1
+uit,1
+"it,",1
+"t, ",3
+met,1
+eth,1
+thi,3
+pre,3
+rep,3
+epa,2
+inn,3
+ner,2
+Whi,1
+ sh,1
+sho,1
+hop,1
+opp,1
+ppi,1
+pin,1
+che,4
+hec,2
+eck,2
+ ph,1
+pho,1
+hon,1
+"ne,",1
+lk ,1
+k w,1
+cus,1
+ust,1
+tom,2
+ink,1
+nk ,1
+k a,1
+ ab,2
+bou,2
+out,2
+wha,1
+y n,1
+eed,1
+cco,1
+pli,2
+sh ,3
+h l,1
+lat,1
+eni,1
+ng.,1
+g. ,1
+rdi,1
+nar,1
+ary,1
+tiv,1
+ivi,1
+vit,1
+nta,4
+tai,3
+ain,5
+ctu,1
+tur,3
+ure,1
+"
+
+A",1
+"
+Af",1
+Aft,1
+r r,1
+ret,1
+etu,1
+urn,1
+g h,1
+"me,",1
+e k,1
+ ki,1
+kit,1
+itc,1
+Per,1
+erh,1
+rha,1
+aps,1
+y r,1
+ bo,1
+boo,1
+ook,1
+"ok,",1
+a m,2
+vie,1
+"ie,",1
+fin,1
+nis,1
+gnm,1
+nme,1
+men,4
+"nt,",1
+l a,1
+a f,1
+fri,1
+nd.,2
+. L,1
+ La,1
+Lat,1
+omo,1
+rro,1
+row,1
+w a,3
+set,1
+ala,1
+arm,1
+m b,1
+e g,1
+ go,1
+goi,1
+oin,1
+sle,1
+lee,1
+eep,1
+ep.,1
+p. ,1
+nex,3
+xt ,2
+t m,1
+day,1
+dec,1
+cis,1
+onv,1
+rsa,1
+sat,1
+"rk,",1
+d u,3
+une,1
+xpe,2
+"
+Te",1
+Tec,1
+ech,3
+chn,3
+hno,1
+nol,1
+olo,1
+log,1
+ogy,1
+gy ,1
+inu,1
+nue,1
+w p,1
+. N,1
+ Ne,1
+New,1
+icu,3
+cul,3
+ult,2
+lt ,2
+s e,2
+ ea,2
+eas,3
+asi,1
+sie,1
+ier,1
+t u,2
+rin,1
+inc,1
+cip,1
+ipl,1
+ehi,1
+s r,2
+rem,1
+s v,1
+Som,2
+niz,2
+ize,2
+lim,1
+imi,1
+mit,1
+tat,4
+", d",1
+dia,2
+iag,2
+agn,1
+gno,1
+nos,1
+mpr,1
+gn.,1
+aso,1
+rim,1
+ime,1
+d p,3
+roj,1
+oje,1
+sef,1
+ul ,1
+l w,1
+ays,1
+ys ,1
+o l,1
+tec,2
+hni,2
+l s,1
+sub,1
+ubj,1
+"
+
+G",1
+"
+Go",1
+Goo,1
+od ,1
+ eq,1
+qua,1
+nt.,2
+t. ,2
+An ,1
+dea,2
+ea ,1
+ct ,2
+ if,1
+if ,1
+ann,1
+nno,1
+lai,1
+ned,1
+arl,1
+rly,1
+ Wr,1
+Wri,1
+org,1
+rga,1
+ani,1
+hts,1
+rag,1
+agr,2
+rap,1
+aph,1
+phs,1
+hs ,1
+so ,1
+t r,1
+ade,1
+n f,1
+fol,1
+oll,2
+rgu,1
+gum,1
+ume,2
+. E,1
+d d,1
+doc,1
+ocu,1
+cum,1
+o d,1
+esc,1
+scr,1
+cri,1
+rib,1
+ibe,1
+lic,1
+ Te,1
+Tea,1
+eac,2
+unf,1
+nfa,1
+fam,1
+ili,1
+lia,1
+iar,1
+onc,1
+cep,1
+ept,1
+pts,1
+h i,1
+stu,1
+tud,1
+ude,1
+alr,1
+lre,1
+ady,1
+dy ,1
+"d.
+",1
+"
+
+E",1
+"
+Ev",1
+Eve,1
+y l,1
+t e,1
+eme,1
+erg,1
+ na,1
+atu,1
+ura,1
+ral,1
+m r,1
+se.,1
+ oc,2
+occ,2
+ccu,2
+ur ,2
+ ra,1
+rar,1
+re.,1
+. C,1
+ Ce,1
+Cer,1
+ert,1
+r n,1
+h o,1
+rti,1
+ula,1
+n o,1
+nni,1
+ds.,1
+col,1
+lec,1
+eno,1
+nou,1
+"xt,",1
+n e,1
+ es,1
+tim,1
+tis,1
+o m,1
+red,1
+edi,1
+dic,1
+ict,1
+t n,1
+w i,1

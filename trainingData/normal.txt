@@ -1,0 +1,293 @@
+Hey, are you still coming over for dinner tonight?
+
+Can you pick up some milk on your way home?
+
+I should be there around seven. I'll text you when I leave.
+
+Thanks for helping me with the project yesterday.
+
+Do you want to grab lunch tomorrow?
+
+I left my jacket at your house. Can you bring it with you?
+
+Let me know when you get home safely.
+
+Are we still planning to watch the movie tonight?
+
+I'll meet you outside the restaurant at six.
+
+Can you call me when you have a chance?
+
+Happy birthday! I hope you have a great day.
+
+Thanks again for the birthday present. I really appreciate it.
+
+What time are you planning to leave tomorrow?
+
+I'm running about ten minutes late.
+
+Do you need anything from the grocery store?
+
+We are having dinner at my parents' house on Sunday.
+
+I just got home. Thanks for tonight!
+
+Do you want to go hiking this weekend?
+
+I'll send you the pictures from yesterday.
+
+Can you remind me to bring the book tomorrow?
+
+The homework assignment is due Friday at midnight.
+
+Does anyone know what chapters we need to read for tomorrow?
+
+I finished the first part of the project. I'll work on the rest tonight.
+
+Can you send me your notes from class today?
+
+The professor moved the exam to next Wednesday.
+
+Are you going to the study group tonight?
+
+I uploaded my part of the assignment to the shared folder.
+
+What did you get for question five on the homework?
+
+The lecture starts at ten tomorrow morning.
+
+I won't be in class today because I have an appointment.
+
+Remember to submit the assignment before the deadline.
+
+I think we should meet tomorrow to finish the presentation.
+
+Can you review my section of the report when you have time?
+
+The quiz covers chapters four through six.
+
+I'll be at the library for the next couple of hours.
+
+The professor posted the new lecture slides this morning.
+
+Our group meeting has been moved to Thursday afternoon.
+
+Do you understand how to solve the last problem?
+
+I finished writing the code, but I still need to test it.
+
+Can we compare our answers before class tomorrow?
+
+The meeting has been moved to three this afternoon.
+
+I've attached the updated report for you to review.
+
+Can you send me the spreadsheet from yesterday's meeting?
+
+I'll finish the remaining tasks before Friday.
+
+The client requested a few changes to the design.
+
+Please review the document when you have a chance.
+
+I'll be working from home tomorrow.
+
+The server maintenance is scheduled for Saturday evening.
+
+Can we discuss this during our meeting tomorrow?
+
+I've updated the project schedule with the new dates.
+
+The latest version of the file is in the shared folder.
+
+Thanks for taking care of that issue.
+
+I'll send the final report once everyone has reviewed it.
+
+The team meeting should only take about thirty minutes.
+
+Please let me know if you notice any problems with the new version.
+
+I finished testing the application this morning.
+
+We need to update the documentation before the release.
+
+The database backup completed successfully last night.
+
+Can someone restart the development server when they arrive?
+
+Your order has shipped and is expected to arrive on Thursday.
+
+Your package was delivered this afternoon.
+
+Thanks for your order. Your receipt is attached.
+
+The item you ordered is currently being prepared for shipment.
+
+Your return has been processed successfully.
+
+The replacement item should arrive early next week.
+
+Your order is ready for pickup at the store.
+
+We received your return and have issued the refund to your original payment method.
+
+The delivery driver is expected to arrive between two and four this afternoon.
+
+Your grocery order has been delivered.
+
+The restaurant confirmed our reservation for Saturday evening.
+
+Your appointment is scheduled for Monday at eleven in the morning.
+
+This is a reminder about your appointment tomorrow afternoon.
+
+Your reservation has been confirmed for two guests.
+
+The mechanic finished working on the car and said it is ready for pickup.
+
+The repair should be completed by Friday.
+
+I'll drop the car off at the shop tomorrow morning.
+
+The technician will arrive sometime between nine and noon.
+
+Your table is reserved for seven thirty tonight.
+
+The hotel confirmed our reservation for next month.
+
+Our flight leaves early tomorrow morning.
+
+The train is scheduled to arrive at the station at six.
+
+I checked the weather and it looks like it might rain tomorrow.
+
+We should leave early to avoid traffic.
+
+Your monthly statement is now available.
+
+Your payment was received successfully. Thank you.
+
+The electricity bill is due next Tuesday.
+
+I transferred my share of the rent this morning.
+
+The internet bill was a little higher than usual this month.
+
+Your subscription has been renewed successfully.
+
+The payment for your order was processed yesterday.
+
+I sent you the money for dinner.
+
+Can you send me your half of the utility bill when you get a chance?
+
+The rent payment went through successfully.
+
+Your account password was changed successfully.
+
+A new device signed into your account yesterday evening.
+
+Your email address has been updated as requested.
+
+Your account settings were saved successfully.
+
+The password reset you requested has been completed.
+
+I changed the Wi-Fi password this morning.
+
+Can you send me the password for the guest network?
+
+The website will be unavailable briefly tonight for scheduled maintenance.
+
+Your profile information has been updated.
+
+The software update finished installing successfully.
+
+I'm making pasta for dinner tonight.
+
+We need bread, eggs, cheese, and vegetables from the store.
+
+The dog already ate, so you don't need to feed him tonight.
+
+I put the clean dishes away this morning.
+
+Can you take the trash out before you leave?
+
+The laundry should be finished in about twenty minutes.
+
+I cleaned the kitchen but haven't vacuumed the living room yet.
+
+There's leftover food in the refrigerator if you're hungry.
+
+Can you close the windows before you leave?
+
+I left the keys on the kitchen counter.
+
+The plumber is coming tomorrow to look at the sink.
+
+The air conditioner seems to be working normally again.
+
+We need to replace the light bulb in the hallway.
+
+I'll mow the lawn sometime this weekend.
+
+The package by the front door belongs to our neighbor.
+
+I'm going to the gym after work.
+
+Do you want to get coffee this afternoon?
+
+I started reading that book you recommended.
+
+That movie was much better than I expected.
+
+I'm planning to cook dinner around six.
+
+We should visit the park while the weather is nice.
+
+I'll probably stay home tonight and finish some work.
+
+Do you want to play a game later?
+
+I haven't decided what I'm doing this weekend yet.
+
+Let's meet at the coffee shop near campus.
+
+The concert starts at eight, so we should leave around seven.
+
+I just finished the book you gave me.
+
+I'm going for a walk before dinner.
+
+I'll call you after I finish work.
+
+Thanks for checking in. Everything is going well.
+
+I hope your trip went well.
+
+It was great seeing everyone yesterday.
+
+Let me know what time works best for you.
+
+I'll check my schedule and get back to you.
+
+Sounds good. See you tomorrow!
+
+No problem, I'll take care of it.
+
+Thanks for letting me know.
+
+I received the file you sent.
+
+I'll look at it later this afternoon.
+
+Everything looks good from my side.
+
+I agree with the changes you suggested.
+
+I'll send you an update tomorrow.
+
+We can talk about it when we meet.
+
+Have a good evening and I'll see you tomorrow.
